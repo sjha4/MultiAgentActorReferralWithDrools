@@ -1,0 +1,18 @@
+package drools
+
+import java.nio.file.Files
+import java.nio.file.Path
+import java.nio.file.Paths
+import java.io.FileWriter
+import java.io.IOException
+import java.io.PrintWriter
+import org.apache.logging.log4j.*;
+global Logger logger;
+rule "refer"
+      dialect "mvel"
+  when
+      m : Message( message != null )
+  then
+      String res = m.getDate() +" "+ m.getActorName()+" "+m.getMessageType()+" "+ m.getMessage();
+      logger.error(res);
+end

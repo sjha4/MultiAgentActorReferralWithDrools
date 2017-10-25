@@ -1,0 +1,11 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(C:\Users\samir\Desktop\3rd sem\SOC\P3\referral\conf\application.conf,C:\Users\samir\Desktop\3rd sem\SOC\P3\referral\target\scala-2.12\classes\application.conf)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\samir\Desktop\3rd sem\SOC\P3\referral\conf\drools,C:\Users\samir\Desktop\3rd sem\SOC\P3\referral\target\scala-2.12\classes\drools)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\samir\Desktop\3rd sem\SOC\P3\referral\conf\log4j2.xml,C:\Users\samir\Desktop\3rd sem\SOC\P3\referral\target\scala-2.12\classes\log4j2.xml)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\samir\Desktop\3rd sem\SOC\P3\referral\conf\log4j212.properties,C:\Users\samir\Desktop\3rd sem\SOC\P3\referral\target\scala-2.12\classes\log4j212.properties)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\samir\Desktop\3rd sem\SOC\P3\referral\conf\logback.xml,C:\Users\samir\Desktop\3rd sem\SOC\P3\referral\target\scala-2.12\classes\logback.xml)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\samir\Desktop\3rd sem\SOC\P3\referral\conf\META-INF,C:\Users\samir\Desktop\3rd sem\SOC\P3\referral\target\scala-2.12\classes\META-INF)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\samir\Desktop\3rd sem\SOC\P3\referral\conf\routes,C:\Users\samir\Desktop\3rd sem\SOC\P3\referral\target\scala-2.12\classes\routes)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\samir\Desktop\3rd sem\SOC\P3\referral\conf\drools\LogHelper.java,C:\Users\samir\Desktop\3rd sem\SOC\P3\referral\target\scala-2.12\classes\drools\LogHelper.java)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\samir\Desktop\3rd sem\SOC\P3\referral\conf\drools\Referral.drl,C:\Users\samir\Desktop\3rd sem\SOC\P3\referral\target\scala-2.12\classes\drools\Referral.drl)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\samir\Desktop\3rd sem\SOC\P3\referral\conf\META-INF\kmodule.xml,C:\Users\samir\Desktop\3rd sem\SOC\P3\referral\target\scala-2.12\classes\META-INF\kmodule.xml)[0m
